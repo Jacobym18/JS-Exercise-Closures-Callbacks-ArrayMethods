@@ -1,5 +1,5 @@
 // ⭐️ Example Challenge START ⭐️
-
+Started
 /**
  * ### Challenge `processFirstItem`
  * 
